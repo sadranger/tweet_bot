@@ -1,0 +1,23 @@
+{
+  "name": "tweet_bot",
+  "version": "1.0.0",
+  "description": "Tweets about got",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadranger/tweet_bot.git"
+  },
+  "keywords": [
+    "tweetbot",
+    "got"
+  ],
+  "author": "ranjith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadranger/tweet_bot/issues"
+  },
+  "homepage": "https://github.com/sadranger/tweet_bot#readme"
+}
